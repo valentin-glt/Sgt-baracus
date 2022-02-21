@@ -4,7 +4,7 @@
 - 👋 Hi, I’m @valentin-glt
 - 👀 I’m interested in finance, accounting and business subjects in general
 - 🌱 I’m currently learning how to grow my business (www.fineaste.com)
-- 💞️ I’m looking to collaborate on business analytics and business intelligence
+- 💞️ I’m looking to collaborate on business intelligence and business automation
 - 📫 How to reach me valentin@fineaste.com
 
 <!---
